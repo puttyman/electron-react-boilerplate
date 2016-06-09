@@ -34,3 +34,6 @@ dist
 release
 main.js
 main.js.map
+.idea/.name
+.idea/dream-stream.iml
+.idea/libraries/dream_stream_node_modules.xml
