@@ -12,7 +12,10 @@ export default class Home extends Component {
       <AppBar
         title="Title"
         iconClassNameRight="muidocs-icon-navigation-expand-more"
-      />
-    );
-  }
-}
+      <FloatingActionButton style={style}>
+        <ContentAdd />
+      </FloatingActionButton>
+        />
+        );
+        }
+        }
